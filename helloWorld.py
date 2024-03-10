@@ -1,3 +1,5 @@
 print("Python is awesome!")
 user_name = input("Enter your name: ")
 print(user_name)
+user_email_address = input("Enter your email address: ")
+print(user_email_address)
